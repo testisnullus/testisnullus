@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Danylo!
+I'm a professional DevOps engineer, mainly working with Kubernetes, cloud infrastructure, IaC, monitoring solutions, and a little bit of Golang development.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/danylo-savchenko-829b8b29a/)
+
 <!--
 **testisnullus/testisnullus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
