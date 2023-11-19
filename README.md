@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Danylo!
-I'm a professional DevOps engineer, mainly working with Kubernetes, cloud infrastructure, IaC, monitoring solutions, and a little bit of Golang development.
+I'm a DevOps engineer, mainly working with Kubernetes, cloud infrastructure, IaC, monitoring solutions, and a little bit of Golang development.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/danylo-savchenko-829b8b29a/)
 
